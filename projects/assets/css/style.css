@@ -1082,7 +1082,7 @@ section {
   bottom: 0;
   /* width: auto; */
   z-index: 9999;
-  background: #040b14;
+  background: #05ffc0;
 }
 
 #footer .copyright {
@@ -1102,4 +1102,9 @@ section {
     width: auto;
     padding-right: 20px 15px;
   }
+}
+
+#yasil
+{
+  color: #3ba7c2;
 }
