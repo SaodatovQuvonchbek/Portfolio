@@ -11,6 +11,9 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
+  margin: 0;
+  box-sizing: border-box;
+  
 }
 
 a {
@@ -1114,4 +1117,3 @@ section {
   }
 }
 
-#b
